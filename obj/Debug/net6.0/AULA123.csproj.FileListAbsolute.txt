@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\AULA123\AULA123\bin\Debug\net6.0\AULA123.exe
+C:\Users\User\source\repos\AULA123\AULA123\bin\Debug\net6.0\AULA123.deps.json
+C:\Users\User\source\repos\AULA123\AULA123\bin\Debug\net6.0\AULA123.runtimeconfig.json
+C:\Users\User\source\repos\AULA123\AULA123\bin\Debug\net6.0\AULA123.dll
+C:\Users\User\source\repos\AULA123\AULA123\bin\Debug\net6.0\ref\AULA123.dll
+C:\Users\User\source\repos\AULA123\AULA123\bin\Debug\net6.0\AULA123.pdb
+C:\Users\User\source\repos\AULA123\AULA123\obj\Debug\net6.0\AULA123.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AULA123\AULA123\obj\Debug\net6.0\AULA123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AULA123\AULA123\obj\Debug\net6.0\AULA123.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AULA123\AULA123\obj\Debug\net6.0\AULA123.AssemblyInfo.cs
+C:\Users\User\source\repos\AULA123\AULA123\obj\Debug\net6.0\AULA123.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AULA123\AULA123\obj\Debug\net6.0\AULA123.dll
+C:\Users\User\source\repos\AULA123\AULA123\obj\Debug\net6.0\ref\AULA123.dll
+C:\Users\User\source\repos\AULA123\AULA123\obj\Debug\net6.0\AULA123.pdb
+C:\Users\User\source\repos\AULA123\AULA123\obj\Debug\net6.0\AULA123.genruntimeconfig.cache
